@@ -1,0 +1,4 @@
+client component, server component
+ssr vs csr
+nested layout
+nested route
